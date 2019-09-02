@@ -1,0 +1,22 @@
+{
+  "name": "analyze",
+  "version": "0.0.0",
+  "description": "react-ui-kit/dribbble2react @ Aug 2, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "@expo/samples": "2.1.1",
+    "apexcharts": "^3.6.6",
+    "native-base": "2.13.5",
+    "prop-types": "15.6.0",
+    "react-apexcharts": "1.3.3",
+    "react-native-chart-kit": "3.2.1",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-navigation": "3.12.1",
+    "react-test-renderer": "16.9.0"
+  }
+}
